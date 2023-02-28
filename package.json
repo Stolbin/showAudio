@@ -1,31 +1,22 @@
 {
-  "name": "surprise",
-  "version": "2.0.0",
-  "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://pashatagir.github.io/surprise",
+  "name": "showaaudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /surprise/"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pashatagir/surprise.git"
+    "url": "git+https://github.com/Stolbin/showAudio.git"
   },
-  "keywords": [],
-  "author": "Pavlo Bezsinniy <tagir.kiev@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pashatagir/surprise/issues"
+    "url": "https://github.com/Stolbin/showAudio/issues"
   },
+  "homepage": "https://github.com/Stolbin/showAudio#readme",
   "dependencies": {
-    "lodash.debounce": "^4.0.8",
-    "modern-normalize": "^1.1.0"
-  },
-  "devDependencies": {
-    "@parcel/transformer-sass": "^2.6.0",
-    "parcel": "^2.6.0",
-    "parcel-reporter-clean-dist": "^1.0.4",
-    "posthtml-include": "^1.7.4"
-  },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+    "express": "^4.18.2"
+  }
 }
