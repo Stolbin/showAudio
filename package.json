@@ -1,20 +1,20 @@
 {
-  "name": "showaaudio",
+  "name": "showaudio",
   "version": "2.0.0",
   "description": "This project was created with Parcel. For familiarization and setting additional features [refer to documentation](https://parceljs.org/).",
-  "homepage": "https://Stolbin.github.io/showaaudio",
+  "homepage": "https://Stolbin.github.io/showAudio",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /showaaudio/"
+    "build": "parcel build src/*.html --public-url /showAudio/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Stolbin/showaaudio.git"
+    "url": "git+https://github.com/Stolbin/showAudio.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Stolbin/showaaudio/issues"
+    "url": "https://github.com/Stolbin/showAudio/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
